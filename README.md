@@ -1,4 +1,5 @@
 # Flapping-wing-robot-project
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cn2ckfBWq9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-{% include youtubePlayer.html id=page.cn2ckfBWq9w %}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Bbi9Akmmrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
